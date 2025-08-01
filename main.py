@@ -327,7 +327,6 @@ def main():
     print("• Achieved meaningful prediction accuracy for gate delays")
 
 if __name__ == "__main__":
-    # Note: You'll need to install: torch, torch-geometric, networkx, matplotlib, scikit-learn
-    # pip install torch torch-geometric networkx matplotlib scikit-learn
+
     
     main()
