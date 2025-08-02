@@ -319,12 +319,6 @@ def main():
     plt.tight_layout()
     plt.show()
     
-    print("\nProject completed successfully!")
-    print("\nWhat this demonstrates for your resume:")
-    print("• Applied Graph Neural Networks to VLSI timing analysis")
-    print("• Implemented end-to-end ML pipeline for circuit prediction")
-    print("• Combined domain knowledge (VLSI) with modern AI techniques")
-    print("• Achieved meaningful prediction accuracy for gate delays")
 
 if __name__ == "__main__":
 
